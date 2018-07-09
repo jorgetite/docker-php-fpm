@@ -4,10 +4,10 @@ Docker images providing support for [PHP-FPM](https://php-fpm.org) on Alpine Lin
 
 ## Images
 
-| Alpine Version  | PHP Version   | Repository         | Tag
-|---              |---            |---                 |---
-|  3.7            | 7.2           | jorgetite/php-fpm  | latest
-|  3.7            | 7.1           | jorgetite/php-fpm  | 71
+| Alpine Version  | PHP Version   | Repository         | Tag     | Dockerfile
+|---              |---            |---                 |---      |---
+|  3.7            | 7.2           | jorgetite/php-fpm  | latest  |  [docker-php-fpm/php-72/Dockerfile](https://github.com/jorgetite/docker-php-fpm/blob/master/php-72/Dockerfile)
+|  3.7            | 7.1           | jorgetite/php-fpm  | 71      |  [docker-php-fpm/php-72/Dockerfile] (https://github.com/jorgetite/docker-php-fpm/blob/master/php-71/Dockerfile)
 
 ## Usage
 
